@@ -1,5 +1,5 @@
 # App-Dev
-My first repository
+Favorite Movie/Series
 
 Inception (2010) – Mind-bending sci-fi thriller about dreams within dreams.
 
